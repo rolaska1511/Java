@@ -3,12 +3,12 @@ public class Mahasiswa{
 	System.out.println("Ini adalah method utama");
 	
 	Mahasiswa richard = new Mahasiswa();
-	richard.printNama();
-	System.out.println(richard.calculateUmur());
+	rolaska.printNama();
+	System.out.println(rolaska.calculateUmur());
 }
 
 public void printNama(){
-	System.out.println("Richard");
+	System.out.println("Rolaska");
 }
 
 public int calculateUmur(){
