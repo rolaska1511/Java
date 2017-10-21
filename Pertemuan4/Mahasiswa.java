@@ -2,7 +2,7 @@ public class Mahasiswa{
 	public static void main (String[]args){
 	System.out.println("Ini adalah method utama");
 	
-	Mahasiswa richard = new Mahasiswa();
+	Mahasiswa rolaska = new Mahasiswa();
 	rolaska.printNama();
 	System.out.println(rolaska.calculateUmur());
 }
